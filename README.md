@@ -2,13 +2,13 @@
 
 Guide Tree Construction using [UPGMA](https://en.wikipedia.org/wiki/UPGMA) algorithm.
 
-# Primer
+## Primer
 
 Evolutionary tree is a branching diagram or "tree" showing the evolutionary relationships among various biological species based upon similarities and differences in their genetic characteristics.
 
 UPGMA (unweighted pair group method with arithmetic mean) is a simple agglomerative (bottom-up) hierarchical clustering method.
 
-# Installation
+## Installation
 
 ```bash
 $ git clone https://github.com/salmoor/guide-tree-construction.git
@@ -16,7 +16,7 @@ $ cd guide-tree-construction
 $ make
 ```
 
-# How to use
+## How to use
 
 Example invocation:
 
