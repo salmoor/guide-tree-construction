@@ -38,6 +38,4 @@ $ ./buildUPGMA --fasta sequences.fa --match 5 --mismatch -3 --gapopen -8 --gapex
 
 - **−−out: **file that contains final output tree in [Newick](https://en.wikipedia.org/wiki/Newick_format) format. The following is the output for sequences in `test_sequences` folder with the above input options.
 
-```bash
-(((((A:1.00, C:1.00):0.75, B:1.75):0.75, F:2.50):2.50, D:5.00):1.00, E:6.00);
-```
+`(((((A:1.00, C:1.00):0.75, B:1.75):0.75, F:2.50):2.50, D:5.00):1.00, E:6.00);`
